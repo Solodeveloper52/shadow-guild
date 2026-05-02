@@ -1,0 +1,42 @@
+# Local reference repositories used for research only — never publish
+Git Repos for Reference/
+git repos for reference/
+Git Repos For Reference/
+
+# Internal validation assets not for public repo
+boss-room/
+tests/
+docs/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets and local config
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Generated files
+node_modules/
+dist/
+build/
+coverage/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local reports and data dumps
+*.db
+*.sqlite
+*.sqlite3
+*.csv
+*.xlsx
+*.parquet

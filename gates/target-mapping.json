@@ -1,0 +1,22 @@
+{
+  "copilot": {
+    "agentsRoot": ".github/agents",
+    "skillsRoot": ".github/skills",
+    "promptsRoot": "prompts"
+  },
+  "claude-code": {
+    "agentsRoot": ".claude-plugin/agents",
+    "skillsRoot": ".claude-plugin/skills",
+    "promptsRoot": "prompts"
+  },
+  "codex": {
+    "agentsRoot": ".codex/agents",
+    "skillsRoot": ".codex/skills",
+    "promptsRoot": "prompts"
+  },
+  "cursor": {
+    "agentsRoot": ".cursor/agents",
+    "skillsRoot": ".cursor/skills",
+    "promptsRoot": "prompts"
+  }
+}

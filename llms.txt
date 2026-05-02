@@ -1,0 +1,15 @@
+# Shadow Guild LLM Catalog
+
+Shadow Guild is a categorized catalog of agents, skills, prompts, and workflows.
+
+Primary source of truth:
+- inventory/registry.json
+
+Core commands:
+- node scripts/install.mjs list
+- node scripts/install.mjs install --class ai-research --dry-run
+- node scripts/install.mjs install --bundle design-engineering-pro --dry-run
+
+Key docs:
+- README.md
+- CATALOG.md

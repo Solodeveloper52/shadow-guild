@@ -1,0 +1,24 @@
+{
+  "plugins": [
+    {
+      "name": "copilot-core",
+      "target": "copilot",
+      "description": "Mapping for Copilot-compatible install layout."
+    },
+    {
+      "name": "claude-code-core",
+      "target": "claude-code",
+      "description": "Mapping for Claude Code-compatible install layout."
+    },
+    {
+      "name": "cursor-core",
+      "target": "cursor",
+      "description": "Mapping for Cursor-compatible install layout."
+    },
+    {
+      "name": "codex-core",
+      "target": "codex",
+      "description": "Mapping for Codex-compatible install layout."
+    }
+  ]
+}
